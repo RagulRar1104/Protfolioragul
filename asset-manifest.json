@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Protfolioragul/static/css/main.c198be39.css",
-    "main.js": "/Protfolioragul/static/js/main.03d56cc2.js",
+    "main.js": "/Protfolioragul/static/js/main.8bbd4445.js",
     "static/js/453.acca0757.chunk.js": "/Protfolioragul/static/js/453.acca0757.chunk.js",
     "static/media/Hotel Project.png": "/Protfolioragul/static/media/Hotel Project.9e3215d2156daf69d600.png",
     "static/media/facededector.png": "/Protfolioragul/static/media/facededector.5fe36f2ee4a7066c34c6.png",
@@ -13,11 +13,11 @@
     "static/media/calculator.png": "/Protfolioragul/static/media/calculator.c7460d5407ca957fc6cc.png",
     "index.html": "/Protfolioragul/index.html",
     "main.c198be39.css.map": "/Protfolioragul/static/css/main.c198be39.css.map",
-    "main.03d56cc2.js.map": "/Protfolioragul/static/js/main.03d56cc2.js.map",
+    "main.8bbd4445.js.map": "/Protfolioragul/static/js/main.8bbd4445.js.map",
     "453.acca0757.chunk.js.map": "/Protfolioragul/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c198be39.css",
-    "static/js/main.03d56cc2.js"
+    "static/js/main.8bbd4445.js"
   ]
 }
